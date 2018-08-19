@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Dev</string>
+  <string name="btn_save_contact">Save Contacts</string>
+</resources>
